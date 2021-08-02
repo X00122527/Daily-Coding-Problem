@@ -1,7 +1,7 @@
 # Daily-Coding-Problem
 Bunch of coding problems from multiple platforms.
 
-####Given a string, find its first non-repeating character
+#### Given a string, find its first non-repeating character
 
 Given a string, find the first non-repeating character in it. For example, if the input string is “aaabcccdeeef”, then the output should be ‘b’ and if the input string is “abcabcabc”, then the output should be ‘_’.
 
@@ -16,7 +16,7 @@ Given an array of integers, return a new array such that each element at index i
 
 For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].
 
-Follow-up: what if you can't use division?
+Follow-up: what if you can't use division? - included but no O(n) solution 
 
 [Solution](solutions/problem_2.py)
 
