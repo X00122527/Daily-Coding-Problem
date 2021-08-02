@@ -1,8 +1,23 @@
 # Daily-Coding-Problem
 Bunch of coding problems from multiple platforms.
 
-**Given a string, find its first non-repeating character**
+####Given a string, find its first non-repeating character
 
 Given a string, find the first non-repeating character in it. For example, if the input string is “aaabcccdeeef”, then the output should be ‘b’ and if the input string is “abcabcabc”, then the output should be ‘_’.
 
-[**Solution**](https://github.com/X00122527/Daily-Coding-Problem/blob/main/solutions/firstNonRepeatingCharacter.py)
+[**Solution**](solutions/firstNonRepeatingCharacter.py)
+
+
+#### Problem 2
+
+This problem was asked by Uber.
+
+Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
+
+For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].
+
+Follow-up: what if you can't use division?
+
+[Solution](solutions/problem_2.py)
+
+---
