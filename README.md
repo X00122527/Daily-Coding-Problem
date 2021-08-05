@@ -72,3 +72,26 @@ For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should pri
 [Solution](solutions/problem_033.py)
 
 ---
+
+#### Problem 10
+
+This problem was asked by Apple.
+
+Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
+
+[Solution](solutions/problem_10.py)
+
+---
+
+
+### Problem 303
+
+This problem was asked by Microsoft.
+
+Given a clock time in `hh:mm` format, determine, to the nearest degree, the angle between the hour and the minute hands.
+
+Bonus: When, during the course of a day, will the angle be zero?
+
+[Solution](solutions/problem_303.py)
+
+---
